@@ -1,11 +1,15 @@
-# Docsify Template
+# Guide formation Bachelor Devellopeur PHP/Synfony Studi
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+> Cette page regroupe sans prétention des informations pour la formation  [Bachelor Développeur PHP/Symfony](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-phpsymfony) de chez Studi pour les sessions mars/avril et juin/juillet 2024.
 
 ## Site Setup
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+### Welcome
+1. [Parcours Graduate Développeur](https://bloglms.studi.fr/mon-parcours-graduate-developpeur/)
+2. :camera:[Replay de présentation septembre 2023](https://app.studi.fr/v3/events/58237/replay)
+3. [Prez septembre 2023](https://ressources.studi.fr/stockage/files/app.studi.fr/8b8a89b3695a3dd917323b7bf357d8d5d8aa4d12.pdf)
+4. [Roadmap session mars/avril](https://drive.google.com/file/d/1c7pOfQu0ddMrPHAhILBWDENSrzn4NQKv/view)
+5. [Roadmap session juin/juillet](https://drive.google.com/file/d/17qJLz30TznGbWEsW_ofUO-mWUoD7cm1C/view)
 
 ### GitHub Pages
 
